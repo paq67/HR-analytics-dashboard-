@@ -8,3 +8,5 @@ Gradio Dashboard Development: A Gradio tabbed interface was successfully impleme
 Insights or Next Steps
 The dashboard effectively visualizes key HR metrics, offering a quick overview of departmental structure, compensation trends, and employee performance.
 To enhance the dashboard, consider adding interactive filters (e.g., by age group, years at company) or drill-down capabilities for more detailed analysis.
+<img width="1225" height="602" alt="image" src="https://github.com/user-attachments/assets/38305ea2-3260-4f7e-a54e-9d961aa26ea5" />
+
